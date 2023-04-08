@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Priyanka Burela</h1>
 <image align="center" width="1200" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif">
-<h3 align="center">Aspiring DevOps Engineer. Have some good hands-on over different DevOps tools . I am passionate about technology and want to explore more.</h3>
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<h3 align="center">Aspiring DevOps Engineer. Have some good hands-on over different DevOps tools . I am passionate about technology and want to explore more. <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"></h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piya199616&label=Profile%20views&color=0e75b6&style=flat" alt="piya199616" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piya199616" alt="piya199616" /></a> </p>
