@@ -1,6 +1,6 @@
 ### Hello Welcome 👋
 
-<h1 align="center">Hi 👋, I'm Priyanka Burela</h1>
+<h1 align="center">I'm Priyanka Burela</h1>
 <image align="center" width="1200" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif">
 <h3 align="center">Aspiring DevOps Engineer. Have some good hands-on over different DevOps tools . I am passionate about technology and want to explore more.</h3>
 
